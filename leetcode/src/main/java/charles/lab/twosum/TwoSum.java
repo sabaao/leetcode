@@ -1,4 +1,4 @@
-package charles.lab.leetcode;
+package charles.lab.twosum;
 
 public class TwoSum {
 

@@ -1,4 +1,4 @@
-package charles.lab.leetcode;
+package charles.lab.twosum;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -6,6 +6,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.util.Arrays;
 
 import org.junit.jupiter.api.Test;
+
+import charles.lab.twosum.TwoSum;
 
 public class TwoSumTest {
 	
