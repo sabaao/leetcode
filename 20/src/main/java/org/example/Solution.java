@@ -26,11 +26,7 @@ public class Solution {
             }
         }
 
-        if(stack.isEmpty()==false){
-            return false;
-        }else{
-            return true;
-        }
+        return stack.isEmpty();
 
     }
 }
